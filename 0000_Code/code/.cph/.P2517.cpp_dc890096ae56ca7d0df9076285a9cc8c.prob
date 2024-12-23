@@ -1,0 +1,1 @@
+{"name":"Local: P2517","url":"c:\\Users\\95432\\Desktop\\code\\P2517.cpp","tests":[{"id":1730907798393,"input":"2 3\n2 2 2\n1 1 0\n0 0 1\n1\n2\n1 10\n1\n2\n1 6","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\95432\\Desktop\\code\\P2517.cpp","group":"local","local":true}
